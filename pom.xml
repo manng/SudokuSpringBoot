@@ -11,7 +11,7 @@
 	<groupId>com.gary</groupId>
 	<artifactId>sudoku</artifactId>
 	<version>0.0.1</version>
-	<name>SudokuSpringBot</name>
+	<name>SudokuSpringBoot</name>
 	<description>Sudoku Project Using Spring Boot</description>
 
 	<properties>
